@@ -1,7 +1,7 @@
 PPD Maps
 ========
 
-PPD Maps is free software for detecting maps in Siemens ECU dumps. Supported ECUs are PPD, SID206 & SID803A. There is partial support for SID803 and barely working support for SID201
+PPD Maps is open source (GPLv3) software for detecting maps in Siemens ECU dumps. Supported ECUs are PPD, SID206 & SID803A. There is partial support for SID803 and barely working support for SID201
 
 The software will identify the corresponding axes for each map and also give a list of DTC/P-codes. It will also find single byte switches to turn off DTCs
 
