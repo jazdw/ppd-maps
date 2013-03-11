@@ -10,3 +10,8 @@ The file must be a full read of the ECU i.e. BDM. A partial read using a tool su
 Export to XDF format is possible, please use the latest TunerPro software to open it. Maps can be imported into WinOLS via the A2L (ASAP2) export function.
 
 For more information please see http://jazdw.net/ppd-maps/
+
+Compiling
+==========
+Compile with Qt 4.7+ (Project file included)
+Link against QwtPlot3D - http://qwtplot3d.sourceforge.net/
